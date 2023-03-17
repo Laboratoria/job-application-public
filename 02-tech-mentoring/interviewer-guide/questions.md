@@ -1,15 +1,12 @@
 # Preguntas conceptuales
 
 ## HTML / CSS
-
 * ¿Para qué se usan los `data-attributes`?
-
 * ¿Por qué es importante no abusar de los `divs`?
-
 * Explica con un ejemplo qué son los `media queries`.
-
 * ¿Cuándo recomiendas (contexto flexbox - grid layout) usar `justify-content` o
    `align-items`?
+
 
 ## Javascript
 
@@ -55,16 +52,22 @@ console.log('log 3');
    * Explica con un ejemplo cómo `.map` es distinto de `.filter`?
    * Explica con un ejemplo cómo funciona el método `.reduce`?
 
+
 ## Git
 
 * ¿Cuál es la utilidad del comando git log?
+
 * ¿Qué es y para qué sirve un pull request?
+
 * ¿Qué es un conflicto al hacer merge y cómo puedes solucionarlo?
+
 * ¿Cuál es la utilidad de trabajar con ramas en Git?
+
 
 ## Terminal
 
 * ¿Cómo puedes navegar entre directorios utilizando la terminal?
+
 
 ## Node.js
 
@@ -136,6 +139,7 @@ console.log('log 3');
 * ¿Sabes qué significan las siglas CRUD?
 
 * ¿A qué nos referimos cuando hablamos de una API REST o RESTful?
+
 
 ## HTTP
 
