@@ -55,6 +55,17 @@ console.log('log 3');
    * Explica con un ejemplo cómo `.map` es distinto de `.filter`?
    * Explica con un ejemplo cómo funciona el método `.reduce`?
 
+## Git
+
+* ¿Cuál es la utilidad del comando git log?
+* ¿Qué es y para qué sirve un pull request?
+* ¿Qué es un conflicto al hacer merge y cómo puedes solucionarlo?
+* ¿Cuál es la utilidad de trabajar con ramas en Git?
+
+## Terminal
+
+* ¿Cómo puedes navegar entre directorios utilizando la terminal?
+
 ## Node.js
 
 * ¿Qué es Node.js y cómo se diferencia de JavaScript en el explorador?
@@ -105,16 +116,6 @@ console.log('log 3');
     });
   };
   ```
-
-## Docker
-
-* ¿Qué es Docker?
-
-* ¿Qué es una imagen/contenedor en Docker?
-
-* ¿Para qué sirve Docker Compose?
-
-* ¿Pudes describir algunas de las partes típicas de un `docker-compose.yml`?
 
 ## ExpressJS
 
